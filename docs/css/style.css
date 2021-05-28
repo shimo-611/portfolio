@@ -197,6 +197,10 @@ li {
   width: 50px;
 }
 
+.contact body{
+	flex: 1;
+}
+
 /*--- page-top ---*/
 .page-top {
   font-weight: bold;
