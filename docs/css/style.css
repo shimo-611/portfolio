@@ -201,6 +201,10 @@ li {
 	flex: 1;
 }
 
+.contact-body p:not(:last-child) {
+  margin-bottom: 30px;
+}
+
 /*--- page-top ---*/
 .page-top {
   font-weight: bold;
