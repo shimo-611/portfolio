@@ -203,13 +203,6 @@ ul, li {
 	width: 50px;
 }
 
-.contact body {
-	display: flex;
-	align-items: flex-start;
-	justify-content: space-between;
-	width: 48%;
-	margin-bottom: 50px;
-}
 
 /*--- page-top ---*/
 .page-top {
